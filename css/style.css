@@ -41,3 +41,29 @@
     color: red;
     transition: 0.3s ease-out
 }
+
+.footer-email-form h2 {
+    margin-bottom: 2em;
+}
+
+.footer-mail-forn {
+    width: 250px;
+    height: 40px;
+    border-radius: 4px;
+    outline: 0;
+    border: 0;
+    padding-left: 0.5rem;
+    font-size: 1rem;
+    margin-bottom: 1rem;
+}
+
+.footer-mail::placeholder {
+    color: #b1b1b1;
+}
+
+.footer-email-btn {
+    width: 100px;
+    height: 40px;
+    border-radius: 4px;
+    background-color: #f9743d;
+}
